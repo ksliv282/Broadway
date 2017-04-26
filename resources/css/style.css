@@ -2,3 +2,49 @@ body{
   font-family: Helvetica;
   text-align:center;
 }
+h1, h2, h5 {
+  color: white;
+}
+.pagenav{
+  color: white;
+}
+h1, h2 {
+  background-image: url('/Users/kathrynsmith/Desktop/Projects/Broadway/resources/images/the-flatiron-building.png')
+}
+h3, h4, h6 {
+  color:dimgray;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+h2 {
+  color:white;
+  font-size: 18px;
+}
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+h5 {
+  font-size: 23px;
+  font-weight: bold;
+  background-image: url('');
+}
+h6 {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  white-space: nowrap;
+}
+.bottomnav {
+  color: white;
+}
