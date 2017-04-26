@@ -5,6 +5,7 @@ body{
 h1, h2, h5 {
   color: white;
 }
+/* Force links white */
 .pagenav{
   color: white;
   font-size: 18px;
@@ -40,6 +41,7 @@ h6 {
   text-align: left;
   white-space: nowrap;
 }
+/* Force bottom links white */
 .bottomnav {
   color: white;
 }
