@@ -7,9 +7,7 @@ h1, h2, h5 {
 }
 .pagenav{
   color: white;
-}
-h1, h2 {
-  background-image: url('/Users/kathrynsmith/Desktop/Projects/Broadway/resources/images/the-flatiron-building.png')
+  font-size: 18px;
 }
 h3, h4, h6 {
   color:dimgray;
@@ -17,10 +15,7 @@ h3, h4, h6 {
 h1{
   font-size: 70px;
   font-weight: bold;
-}
-h2 {
-  color:white;
-  font-size: 18px;
+  background-image: url('/Users/kathrynsmith/Desktop/Projects/Broadway/resources/images/the-flatiron-building.png')
 }
 h3 {
   font-size: 32px;
@@ -36,7 +31,7 @@ p {
 h5 {
   font-size: 23px;
   font-weight: bold;
-  background-image: url('');
+  background-image: url('/Users/kathrynsmith/Desktop/Projects/Broadway/resources/images/the-flatiron-building.png');
 }
 h6 {
   background-color: dimgray;
